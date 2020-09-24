@@ -28,7 +28,7 @@ namespace ConsoleApp13
             // Return to code anchor
             ReturnToMain:
 
-            OutputTraiangle(InputCharacter(), InputPeak());
+            OutputTriangle(InputCharacter(), InputPeak());
 
             WriteLine(Environment.NewLine + "Do you want to enter new data for triangle? y/n: ");
 
@@ -88,7 +88,7 @@ namespace ConsoleApp13
         }
 
         // Output the triangle using the users character choice and peak size
-        public static void OutputTraiangle(char character, int peak)
+        public static void OutputTriangle(char character, int peak)
         {
 
             int start = 1;
