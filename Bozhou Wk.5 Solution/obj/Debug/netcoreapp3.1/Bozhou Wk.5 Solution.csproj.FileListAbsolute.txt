@@ -1,0 +1,13 @@
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\bin\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.exe
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\bin\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.deps.json
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\bin\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.runtimeconfig.json
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\bin\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.runtimeconfig.dev.json
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\bin\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.dll
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\bin\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.pdb
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\obj\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.csprojAssemblyReference.cache
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\obj\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.AssemblyInfoInputs.cache
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\obj\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.AssemblyInfo.cs
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\obj\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.csproj.CoreCompileInputs.cache
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\obj\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.dll
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\obj\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.pdb
+C:\Users\chenb1\source\repos\Week5\CharlieWeek5group\Bozhou Wk.5 Solution\obj\Debug\netcoreapp3.1\Bozhou Wk.5 Solution.genruntimeconfig.cache

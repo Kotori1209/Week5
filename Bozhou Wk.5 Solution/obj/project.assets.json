@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chenb1\\source\\repos\\Week5\\CharlieWeek5group\\CharlieWeek5group\\CharlieWeek5group.csproj",
-      "projectName": "CharlieWeek5group",
-      "projectPath": "C:\\Users\\chenb1\\source\\repos\\Week5\\CharlieWeek5group\\CharlieWeek5group\\CharlieWeek5group.csproj",
+      "projectUniqueName": "C:\\Users\\chenb1\\source\\repos\\Week5\\CharlieWeek5group\\Bozhou Wk.5 Solution\\Bozhou Wk.5 Solution.csproj",
+      "projectName": "Bozhou Wk.5 Solution",
+      "projectPath": "C:\\Users\\chenb1\\source\\repos\\Week5\\CharlieWeek5group\\Bozhou Wk.5 Solution\\Bozhou Wk.5 Solution.csproj",
       "packagesPath": "C:\\Users\\chenb1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chenb1\\source\\repos\\Week5\\CharlieWeek5group\\CharlieWeek5group\\obj\\",
+      "outputPath": "C:\\Users\\chenb1\\source\\repos\\Week5\\CharlieWeek5group\\Bozhou Wk.5 Solution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
