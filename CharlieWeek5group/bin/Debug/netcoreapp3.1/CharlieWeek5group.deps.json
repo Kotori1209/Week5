@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CharlieWeek5group/1.0.0": {
+        "runtime": {
+          "CharlieWeek5group.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CharlieWeek5group/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
